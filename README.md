@@ -1,6 +1,14 @@
 # 💫 About Me:
 🎮 Level up! I’m Dhiraj, a full-stack developer on a never-ending quest to build immersive experiences both on and off the screen. Whether I’m crafting epic 3D worlds in Unity 🌍, designing responsive UIs in React ⚙️, or managing databases with MongoDB 💾, I’m always on the lookout for my next coding challenge to conquer. When I’m not building the next big app or game, you’ll find me debugging code like it’s a final boss fight 👾 or optimizing features for the next hackathon 🏆 (did I mention I’m a HackWithInfi finalist?).<br><br>Let’s team up and create something legendary! 🚀
 
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"> -->
+<!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> -->
+<!-- <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp"> -->
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
+<!-- <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp"> -->
+<!-- <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/document-function-coding-7ym5bmzpd6tb5wn3.webp"> -->
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhiraj_karangale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-karangale-464ab91bb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhirajkarangale) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dhirajkarangale) 
