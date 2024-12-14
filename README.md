@@ -1,14 +1,12 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
-  <!-- About Me Section -->
   <div style="flex: 1; padding: 20px; text-align: left;">
     <h2>💫 About Me:</h2>
     <p>🎮 Level up! I’m Dhiraj, a full-stack developer on a never-ending quest to build immersive experiences both on and off the screen. Whether I’m crafting epic 3D worlds in Unity 🌍, designing responsive UIs in React ⚙️, or managing databases with MongoDB 💾, I’m always on the lookout for my next coding challenge to conquer. When I’m not building the next big app or game, you’ll find me debugging code like it’s a final boss fight 👾 or optimizing features for the next hackathon 🏆 (did I mention I’m a HackWithInfi finalist?).<br><br>Let’s team up and create something legendary! 🚀</p>
   </div>
 
-  <!-- GIF Section -->
   <div style="flex: 1; padding: 20px; text-align: right;">
-    <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" alt="coding" width="100%" style="max-width: 400px;">
+    <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" alt="coding" width="300" style="max-width: 100%; height: auto;">
   </div>
 
 </div>
