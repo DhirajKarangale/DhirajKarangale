@@ -2,7 +2,16 @@
 
   <div style="flex: 1; padding: 20px; text-align: left;">
     <h2>💫 About Me:</h2>
-    <p>🎮 Level up! I’m Dhiraj, a full-stack developer on a never-ending quest to build immersive experiences both on and off the screen. Whether I’m crafting epic 3D worlds in Unity 🌍, designing responsive UIs in React ⚙️, or managing databases with MongoDB 💾, I’m always on the lookout for my next coding challenge to conquer. When I’m not building the next big app or game, you’ll find me debugging code like it’s a final boss fight 👾 or optimizing features for the next hackathon 🏆 (did I mention I’m a HackWithInfi finalist?).<br><br>Let’s team up and create something legendary! 🚀</p>
+    <p>🎮 Level up!
+
+I’m Dhiraj Karangale, a HackWithInfi finalist, full-stack developer, and game creator on a never-ending quest to build immersive digital experiences both on and off the screen. Whether I’m crafting epic 3D worlds in Unity 🌍, designing responsive interfaces with React ⚙️, creating mobile-first experiences with React Native 📱, or managing databases with MongoDB 💾, I’m always ready for the next big coding challenge to conquer.
+
+From designing procedurally generated games to optimizing GraphQL-powered PWAs, I bring creativity, precision, and a passion for problem-solving to every project. When I’m not building the next hit app or game, you’ll find me:
+- Debugging code like it’s a final boss fight 👾,
+- Optimizing features for a hackathon 🏆, or
+- Experimenting with cutting-edge tech like AR, React Native, and multiplayer systems 🌐.
+  
+<br>Let’s team up and create something legendary! 🚀</p>
   </div>
 
   <div style="flex: 1; padding: 20px; text-align: right;">
