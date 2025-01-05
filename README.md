@@ -6,12 +6,14 @@
 
 I’m Dhiraj Karangale, a HackWithInfi finalist, full-stack developer, and game creator on a never-ending quest to build immersive digital experiences both on and off the screen. Whether I’m crafting epic 3D worlds in Unity 🌍, designing responsive interfaces with React ⚙️, creating mobile-first experiences with React Native 📱, or managing databases with MongoDB 💾, I’m always ready for the next big coding challenge to conquer.
 
-From designing procedurally generated games to optimizing GraphQL-powered PWAs, I bring creativity, precision, and a passion for problem-solving to every project. When I’m not building the next hit app or game, you’ll find me:
-- Debugging code like it’s a final boss fight 👾,
-- Optimizing features for a hackathon 🏆, or
-- Experimenting with cutting-edge tech like AR, React Native, and multiplayer systems 🌐.
-  
-<br>Let’s team up and create something legendary! 🚀</p>
+From designing procedurally generated games with DOTS to optimizing GraphQL-powered PWAs, I bring creativity, precision, and a passion for problem-solving to every project. I’ve published two games on the Play Store, one with 100K+ downloads and another with 10K+ downloads, showcasing my ability to create engaging content that resonates with players worldwide. When I’m not building the next hit app or game, you’ll find me:
+<ul>
+<li>Debugging code like it’s a final boss fight 👾</li>
+<li>Optimizing features for a hackathon 🏆</li>
+<li>Experimenting with cutting-edge tech like AR, React Native, and multiplayer systems 🌐</li>
+</ul>
+
+<h2>Let’s team up and create something extraordinary! 🚀</h2>
   </div>
 
   <div style="flex: 1; padding: 20px; text-align: right;">
