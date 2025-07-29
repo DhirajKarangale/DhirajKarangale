@@ -5,7 +5,7 @@
  
 Hi, I'm Dhiraj Karangale, a Full Stack Developer with hands-on experience building scalable, secure, and responsive web applications using React, Node.js, Express.js, MongoDB, PostgreSQL, and Java.
 
-I specialize in modern frontend development leveraging React (Hooks, Redux Toolkit, React Query) to create clean, intuitive, and responsive user interfaces using Tailwind CSS, Material UI, and Bootstrap.
+I specialize in modern frontend development leveraging React (Hooks, Redux Toolkit) to create clean, intuitive, and responsive user interfaces using Tailwind CSS, and Bootstrap.
 On the backend, I design and implement efficient RESTful APIs, ensure secure authentication using JWT, and work proficiently with both NoSQL and SQL databases.
 
 With a solid foundation in Java backend development and strong problem-solving skills, I bring a versatile approach to full stack development. As a HackWithInfy Finalist, I have a proven competitive edge and a commitment to code quality and performance.
