@@ -22,7 +22,7 @@ Beyond web development, I've developed multiple Android apps that have collectiv
 </div>
 
 ## 🌐 Portfolio
-Check out my projects: [Dhiraj's Portfolio](https://dhirajkarangale.netlify.app/)
+Check out my projects: [Dhiraj's Portfolio](https://dhirajkarangale.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhiraj_karangale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-karangale-464ab91bb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhirajkarangale) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dhirajkarangale) 
