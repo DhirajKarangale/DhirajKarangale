@@ -41,11 +41,8 @@ Outside web, I’ve also shipped **Android apps with 160K+ Play Store downloads*
 
 ---
 
-## 🌐 Portfolio
-🔗 https://dhirajkarangale.vercel.app/
-
 ## 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-karangale)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/DhirajKarangale)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhirajkarangale)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dhirajkarangale)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-karangale-464ab91bb/)
+[![npm](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/~dhirajkarangale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://dhirajkarangale.vercel.app/)
