@@ -47,16 +47,16 @@ Outside web, I’ve also shipped **Android apps with 160K+ Play Store downloads*
 
 ## ⭐ Preferred Projects
 
-- 🔍 **[SatyaMark](https://github.com/DhirajKarangale/SatyaMark)** — *AI-powered content verification platform using LLMs, RAG pipelines, and open-source SDKs*
+- 🔍 **[SatyaMark](https://github.com/DhirajKarangale/SatyaMark)** — *AI-powered content verification platform that detects misinformation using LLMs, RAG pipelines, and AI image analysis.*
 
-- 🧩 **[PipelineX](https://github.com/DhirajKarangale/PipelineX)** — *Visual drag-and-drop workflow builder for AI & automation pipelines (React Flow, Redux)*
+- 🧩 **[Jobora](https://github.com/DhirajKarangale/Jobora)** — *AI-powered job automation platform that discovers, evaluates, and applies to jobs with minimal user effort.*
 
-- 💬 **[FUSE](https://github.com/DhirajKarangale/FUSE)** — *Real-time social media platform built with React, Node.js, PostgreSQL, and WebSockets*
+- 💬 **[PDF & PPT Export](https://github.com/DhirajKarangale/pdfppt-export)** — *Open-source React library that exports dashboards as multi-page PDFs and editable PowerPoint presentations.*
 
 ---
 
 ## 🤝 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000)](https://dhirajkarangale.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-karangale-464ab91bb/)
 [![npm](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/~dhirajkarangale)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://dhirajkarangale.vercel.app/)
