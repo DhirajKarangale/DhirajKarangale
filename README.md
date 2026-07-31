@@ -29,7 +29,7 @@ Outside web, I’ve also shipped **Android apps with 160K+ Play Store downloads*
 
 </div>
 
-<!--
+
 ---
 
 ## Contributions
@@ -41,7 +41,7 @@ Outside web, I’ve also shipped **Android apps with 160K+ Play Store downloads*
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DhirajKarangale/DhirajKarangale/output/github-contribution-grid-snake.svg">
   </picture>
  </p> 
- -->
+ 
 
 ---
 
